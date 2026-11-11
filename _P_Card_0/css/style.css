@@ -1,0 +1,103 @@
+/* -- Import Google font ------------------------------------ */
+
+/* Variables CSS -------------------------------------*/
+:root {
+  /* ➩ Variables de police et couleurs */
+}
+
+/* -- Reset ------------------------------------ */
+
+*,
+*::after,
+*::before {
+  /* ➩ Calcul de la taille des éléments incluant bordure et padding */
+  /* ➩ Reset des marges et des paddings */
+}
+
+html,
+body {
+  /* ➩ Prend toute la hauteur disponible */
+}
+
+img {
+  /* ➩ Image responsive */
+}
+
+/* -- Style dde base ------------------------------------ */
+
+body {
+  /* ➩ Contexte de formatage permettant de center les éléments enfants */
+
+  /* ➩ Police principale et couleur */
+}
+
+/* -- BLOCK : Card ------------------------------------ */
+
+.card {
+  /* ➩ Contexte de formatage permettant d'agencer les éléments enfants en colonne avec un espace de 1.5rem entre eux */
+
+  /* ➩ Largeur de la carte 400px */
+
+  /* ➩ Marges Internes Top: 20px Right/Left:20px Bottom: 32px */
+
+  /* ➩ Bordure 2px d'épaisseur */
+
+  /* ➩ Bordure arrondie */
+
+  /* ➩ Ombre portée 
+    0 décalage horizontal 
+    10px décalage vertical 
+    0 blur 
+    couleur de la bordure
+   */
+
+  /* ➩ Translation vers le haut de 4px */
+
+  /* ➩ Curseur pointer */
+}
+
+/* -- ELEMENT : img-container */
+.card__img-container {
+  /* ➩ Positionnement permettant à l'élément de devenir le futur référent de positionnement d'un enfant placé en absolut  */
+
+  /* ➩ Proportions 4/3 */
+
+  /* ➩ Bordure arrondie */
+
+  /* ➩ Masquage des débordements */
+}
+
+/* En CSS, ::after crée un pseudo-élément qui sera le dernier enfant de l'élément sélectionné. Il est souvent utilisé pour ajouter du contenu cosmétique à un élément, en utilisant la propriété CSS content. Par défaut, ce contenu est de type « en ligne ». */
+
+.card__img-container::after {
+  /* ➩ Renseignez vous sur la propriété content et ajouter GREEN */
+
+  /* ➩ Contexte de formatage permettant de center les éléments enfants */
+
+  /* ➩ Position hors du flux top 0 left 0  */
+
+  /* ➩ Prend la taille du parent */
+
+  /* ➩ Taille Police 32px */
+
+  /* ➩ Couleur de fond */
+
+  /* ➩ Opacité à 0 */
+
+  /* ➩ Transition */
+}
+
+.card:hover {
+  /* ➩ Ombre portée 
+    0 décalage horizontal 
+    4px décalage vertical 
+    0 blur 
+    couleur de la bordure
+   */
+
+  /* ➩ Translation vers le bas de 4px */
+}
+
+.card:hover .card__img-container::after {
+  /* ➩ Opacité à 80% */
+}
