@@ -4,7 +4,7 @@
 
 Intégration de la carte à l'aide de la pseudo-classe `::after` en CSS.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_0/Ecran/Exo0.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/blob/main/_P_Card_0/Ecran/Exo0.png" width="200">
 
 ### Typography
 
@@ -24,8 +24,8 @@ rgb(52, 184, 151) bordure
 
 Intégration de la carte avec QR code en CSS V1. Créer une variante avec très peu de code CSS V2.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_1/Ecran/V1.png" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_1/Ecran/V2.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/blob/main/_P_Card_1/Ecran/V1.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/blob/main/_P_Card_1/Ecran/V2.png" width="200">
 
 ### Colors
 
