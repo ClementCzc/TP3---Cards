@@ -4,7 +4,7 @@
 
 Intégration de la carte à l'aide de la pseudo-classe `::after` en CSS.
 
-<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/blob/main/_P_Card_0/Ecran/Exo0.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_0/Ecran/Exo0.png" width="200">
 
 ### Typography
 
