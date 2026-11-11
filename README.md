@@ -24,8 +24,8 @@ rgb(52, 184, 151) bordure
 
 Intégration de la carte avec QR code en CSS V1. Créer une variante avec très peu de code CSS V2.
 
-<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/blob/main/_P_Card_1/Ecran/V1.png" width="200">
-<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/blob/main/_P_Card_1/Ecran/V2.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_1/Ecran/V1.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_1/Ecran/V2.png" width="200">
 
 ### Colors
 
@@ -48,7 +48,7 @@ Font
 
 Intégration de la carte mobile en HTML/CSS.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_2/Ecran/mobile-design.jpg" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_2/Ecran/mobile-design.jpg" width="200">
 
 ### Colors
 
@@ -72,7 +72,7 @@ Font
 
 Intégration de la carte profile en HTML/CSS.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_3/Ecran/ecran.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_3/Ecran/ecran.png" width="200">
 
 ### Colors
 
@@ -99,9 +99,9 @@ Font
 
 Intégration de la carte profile en HTML/CSS.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_4/Ecran/S.jpg" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_4/Ecran/L.jpg" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_4/Ecran/active-states.jpg" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_4/Ecran/S.jpg" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_4/Ecran/L.jpg" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_4/Ecran/active-states.jpg" width="200">
 
 ### Colors
 
@@ -132,7 +132,7 @@ Font
 
 Intégration de la carte profile en HTML/CSS.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_5/Ecran/CardSocial.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_5/Ecran/CardSocial.png" width="200">
 
 ### Colors
 
@@ -154,8 +154,8 @@ Font
 
 Intégration de la carte profile en HTML/CSS.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_6/Ecran/card.png" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_6/Ecran/card-hover.png" width="200">
+<img src="http://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_6/Ecran/card.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_6/Ecran/card-hover.png" width="200">
 
 ### Colors
 
@@ -184,9 +184,9 @@ Font
 
 Intégration de la carte profile en HTML/CSS.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_7/Ecran/S.jpg" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_7/Ecran/M.jpg" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_7/Ecran/active-states.jpg" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_7/Ecran/S.jpg" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_7/Ecran/M.jpg" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_7/Ecran/active-states.jpg" width="200">
 
 ### Colors
 
@@ -217,24 +217,24 @@ Font
 En utilisant une approche mobile first, intégrez la carte.
 cf: Exo1_S.png/ Exo1_M.png
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_8/Ecran/Exo1_S.png" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_8/Ecran/Exo1_M.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_8/Ecran/Exo1_S.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_8/Ecran/Exo1_M.png" width="200">
 
 ### Exercice 2 'card variant'
 
 Créer une variante de la carte avec un minimum de code CSS.
 cf: Exo2_S.png/ Exo2_M.png
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_8/Ecran/Exo2_S.png" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_8/Ecran/Exo2_M.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_8/Ecran/Exo2_S.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_8/Ecran/Exo2_M.png" width="200">
 
 ### Exercice 3 'cards'
 
 Avec un ajout d'un minimum de code CSS, intégrez les 3 cartes.
 cf: Exo3_S.png/ Exo3_M.png
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_8/Ecran/Exo3_S.png" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_8/Ecran/Exo3_M.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_8/Ecran/Exo3_S.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_8/Ecran/Exo3_M.png" width="200">
 
 ### Colors
 
@@ -267,13 +267,13 @@ Font
 
 - Intégrer la maquette de la carte Marvel Hulk.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_9/Ecran/V1/XS.png" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_9/Ecran/V1/XL.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_9/Ecran/V1/XS.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_9/Ecran/V1/XL.png" width="200">
 
 - Intégrer la maquette de la carte Marvel Spider.
 
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_9/Ecran/V2/XS.png" width="200">
-<img src="https://raw.githubusercontent.com/denis-springinsfeld/R111_25/TP3/_P_Card_9/Ecran/V2/XL.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_9/Ecran/XS.png" width="200">
+<img src="https://raw.githubusercontent.com/ClementCzc/TP3---Cards/refs/heads/main/_P_Card_9/Ecran/XL.png" width="200">
 
 - Intégrer la maquette de la carte Marvel de votre propre choix.
 
